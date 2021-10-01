@@ -1,3 +1,5 @@
+package com.cydeo.tests;
+
 public class HelloSelami_3 {
 
     public static void main(String[] args) {
