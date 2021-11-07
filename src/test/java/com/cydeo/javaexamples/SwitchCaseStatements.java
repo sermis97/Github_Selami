@@ -1,3 +1,5 @@
+package com.cydeo.javaexamples;
+
 public class SwitchCaseStatements {
 
     public static void main(String[] args) {

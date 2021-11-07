@@ -1,4 +1,4 @@
-package com.cydeo.tests;
+package com.cydeo.javaexamples;
 
 public class ForLoop {
     public static void main(String[] args) {
